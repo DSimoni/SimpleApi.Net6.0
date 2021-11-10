@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhoneNumbers>
+  <PhoneNumber>
+    <Name>John Adams</Name>
+    <Type>Cellphone</Type>
+    <Number>+355 45454654564</Number>
+  </PhoneNumber>
+  <PhoneNumber>
+    <Name>Edit Smith</Name>
+    <Type>Work</Type>
+    <Number>+34 5465465656</Number>
+  </PhoneNumber>
+  <PhoneNumber>
+    <Name>Chris Brown</Name>
+    <Type>Home</Type>
+    <Number>++1 456456</Number>
+  </PhoneNumber>
+</PhoneNumbers>
